@@ -1,0 +1,10 @@
+G:\7 semester\VSA by ASIF ALI;  TOOBA;\aftermid\CSharpMcCabeHalstead\obj\Debug\CSharpMcCabeHalstead.csproj.AssemblyReference.cache
+G:\7 semester\VSA by ASIF ALI;  TOOBA;\aftermid\CSharpMcCabeHalstead\obj\Debug\CSharpMcCabeHalstead.CSharpMcCabeHalstead.resources
+G:\7 semester\VSA by ASIF ALI;  TOOBA;\aftermid\CSharpMcCabeHalstead\obj\Debug\CSharpMcCabeHalstead.Properties.Resources.resources
+G:\7 semester\VSA by ASIF ALI;  TOOBA;\aftermid\CSharpMcCabeHalstead\obj\Debug\CSharpMcCabeHalstead.csproj.GenerateResource.cache
+G:\7 semester\VSA by ASIF ALI;  TOOBA;\aftermid\CSharpMcCabeHalstead\obj\Debug\CSharpMcCabeHalstead.csproj.CoreCompileInputs.cache
+G:\7 semester\VSA by ASIF ALI;  TOOBA;\aftermid\CSharpMcCabeHalstead\bin\Debug\CSharpMcCabeHalstead.exe.config
+G:\7 semester\VSA by ASIF ALI;  TOOBA;\aftermid\CSharpMcCabeHalstead\bin\Debug\CSharpMcCabeHalstead.exe
+G:\7 semester\VSA by ASIF ALI;  TOOBA;\aftermid\CSharpMcCabeHalstead\bin\Debug\CSharpMcCabeHalstead.pdb
+G:\7 semester\VSA by ASIF ALI;  TOOBA;\aftermid\CSharpMcCabeHalstead\obj\Debug\CSharpMcCabeHalstead.exe
+G:\7 semester\VSA by ASIF ALI;  TOOBA;\aftermid\CSharpMcCabeHalstead\obj\Debug\CSharpMcCabeHalstead.pdb
